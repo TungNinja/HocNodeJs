@@ -1,0 +1,4 @@
+b1: npm init
+b2: npm install moments --save
+b3: npm install jasmine-node --save-dev
+b4: npm install -g nodemon
